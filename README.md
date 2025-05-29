@@ -1,17 +1,13 @@
 # 💡 dev-roadmap-indonesia — From 0 to Hero (2025 Edition)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars Wanted](https://img.shields.io/badge/Give%20Us%20a%20Star-%E2%AD%90%EF%B8%8F-blue)](https://github.com/kongali1720/dev-roadmap-indonesia)
-[![Made in Indonesia](https://img.shields.io/badge/Made%20in-Indonesia-red)](https://github.com/kongali1720)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Stars Wanted](https://img.shields.io/badge/Give%20Us%20a%20Star-%E2%AD%90%EF%B8%8F-blue)](https://github.com/kongali1720/dev-roadmap-indonesia) 
+[![Made in Indonesia](https://img.shields.io/badge/Made%20in-Indonesia-red)](https://github.com/kongali1720)  
 
 > 🧠 Panduan step-by-step jadi developer dari nol, khusus buat pejuang ngoding Indonesia.  
-> 💥 100% edukatif, anti-hoax, dan siap bikin GitHub lo rame!
+> 💥 100% edukatif, anti-hoax, dan siap bikin GitHub lo rame!  
 
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
-</p>
+![Dev Roadmap Indonesia](https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png)
 
 ---
 
