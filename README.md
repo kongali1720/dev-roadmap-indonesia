@@ -5,7 +5,7 @@
 [![Made in Indonesia](https://img.shields.io/badge/Made%20in-Indonesia-red)](https://github.com/kongali1720)  
 
 > 🧠 Panduan step-by-step jadi developer dari nol, khusus buat pejuang ngoding Indonesia.  
-> 💥 100% edukatif, anti-hoax, dan siap bikin GitHub lo rame!  
+> 💥 100% edukatif, anti-hoax, dan siap bikin loe jago ngoding!  
 
 ![Dev Roadmap Indonesia](https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png)
 
